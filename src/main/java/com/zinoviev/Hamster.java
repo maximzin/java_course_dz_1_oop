@@ -1,2 +1,4 @@
-package com.zinoviev;public class Hamster {
+package com.zinoviev;
+
+public class Hamster {
 }
